@@ -1,0 +1,21 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-4b5b03fb6112b2c1a1aabbaa20065411a71b4dcd4d69ee6fe5a09cf949fd207d",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-04T14:45:09.740962+02:00",
+  "version": 1,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2022-32149"
+      },
+      "timestamp": "2024-10-04T14:45:09.740963+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/text@v0.3.7"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

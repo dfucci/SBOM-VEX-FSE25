@@ -1,0 +1,17 @@
+Commit/Subject: Add VEX file with vulnerabilities information to SBOM
+
+Dear project owners,
+We are a group of researchers investigating the usefulness of augmenting Software Bills of Materials (SBOMs) with information about known vulnerabilities of third-party dependencies.
+
+As claimed in previous interview-based studies, a major limitation—according to software practitioners—of existing SBOMs is the lack of information about known vulnerabilities.  For this reason, we would like to investigate how augmented SBOMs are received in open-source projects.
+
+To this aim, we have identified popular open-source repositories on GitHub that provided SBOMs, statically detected vulnerabilities on their dependencies in the OSV database, and, based on its output, we have augmented your repository’s SBOM by leveraging the OpenVEX implementation of the Vulnerability Exploitability eXchange (VEX). 
+
+The JSON file in this pull request consists of statements each indicating i) the software products (i.e., dependencies) that may be affected by a vulnerability. These are linked to the SBOM components through the @id field in their Persistent uniform resource locator (pURL); ii) a CVE affecting the product; iii) an impact status defined by VEX. By default, all statements have status `under_investigation` as it is not yet known whether these product versions are actually affected by the vulnerability. After investigating the vulnerability, further statuses can be `affected`, `not_affected`, `fixed`. It is possible to motivate the new status in a `justification` field (see https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf for more information). 
+ 
+We open this pull request containing a VEX file related to the SBOM of your project, and hope it will be considered. 
+We would also like to hear your opinion on the usefulness (or not) of this information by answering a 3-minute anonymous survey:
+<survey url>
+
+<Signatures>
+

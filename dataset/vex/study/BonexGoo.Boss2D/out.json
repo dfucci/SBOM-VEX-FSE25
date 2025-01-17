@@ -1,0 +1,36 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-d46a1b8867126998f862260f510fbfaa2a047089b0598f426243029655ec8611",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-04T14:32:12.905853+02:00",
+  "last_updated": "2024-10-04T14:32:13.044991+02:00",
+  "version": 6,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45803"
+      },
+      "timestamp": "2024-10-04T14:32:12.905853+02:00",
+      "products": [
+        {
+          "@id": "pkg:pypi/urllib3@1.26.17",
+          "@id": "pkg:pypi/requests@2.31.0",
+          "@id": "pkg:pypi/idna@3.4"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-37891"
+      },
+      "timestamp": "2024-10-04T14:32:12.989353+02:00",
+      "products": [
+        {
+          "@id": "pkg:pypi/urllib3@1.26.17"
+        }
+      ],
+      "status": "under_investigation"
+    },
+  ]
+}

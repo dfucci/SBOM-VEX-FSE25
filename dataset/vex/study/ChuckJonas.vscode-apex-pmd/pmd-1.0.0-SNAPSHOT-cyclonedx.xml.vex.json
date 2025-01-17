@@ -1,0 +1,21 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-147851dbfb11b60c81fecb8f1eb0b0c96b3f90f32452b9d3e094c513fdb2bf0a",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-11T16:07:29.136189+02:00",
+  "version": 1,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2022-36944"
+      },
+      "timestamp": "2024-10-11T16:07:29.136193+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.scala-lang:scala-library@2.13.3"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

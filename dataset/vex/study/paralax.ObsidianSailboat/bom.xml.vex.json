@@ -1,0 +1,142 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-e7217e4ad57dbcfd4f2d36ef5d3f0000f08b50653bb4c68d23894e2279d1eb5f",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-07T15:41:07.621253+02:00",
+  "last_updated": "2024-10-07T15:41:07.87512+02:00",
+  "version": 11,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2017-11770"
+      },
+      "timestamp": "2024-10-07T15:41:07.621254+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/Microsoft.NETCore.App@2.0.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2017-11770"
+      },
+      "timestamp": "2024-10-07T15:41:07.65152+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/System.Security.Cryptography.X509Certificates@2.0.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2018-8292"
+      },
+      "timestamp": "2024-10-07T15:41:07.67741+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/System.Net.Http@4.3.2"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2019-0657"
+      },
+      "timestamp": "2024-10-07T15:41:07.702123+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/Microsoft.NETCore.App@4.3.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2019-0657"
+      },
+      "timestamp": "2024-10-07T15:41:07.726716+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/System.Private.Uri@4.3.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2019-0820"
+      },
+      "timestamp": "2024-10-07T15:41:07.750854+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/System.Text.RegularExpressions@4.3.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2019-0980"
+      },
+      "timestamp": "2024-10-07T15:41:07.775424+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/Microsoft.NETCore.App@4.3.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2019-0980"
+      },
+      "timestamp": "2024-10-07T15:41:07.799922+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/System.Private.Uri@4.3.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2019-0981"
+      },
+      "timestamp": "2024-10-07T15:41:07.825076+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/Microsoft.NETCore.App@4.3.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2019-0981"
+      },
+      "timestamp": "2024-10-07T15:41:07.848966+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/System.Private.Uri@4.3.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-21907"
+      },
+      "timestamp": "2024-10-07T15:41:07.87512+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/Newtonsoft.Json@11.0.2"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

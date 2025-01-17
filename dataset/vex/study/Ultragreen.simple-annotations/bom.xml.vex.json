@@ -1,0 +1,70 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-1463ab60ac6d38121b9ab159cb86e0de77f2da4a6e1b36258c2f9b5ca3f5c002",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-04T15:15:44.09327+02:00",
+  "last_updated": "2024-10-04T15:15:44.215089+02:00",
+  "version": 5,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2024-35176"
+      },
+      "timestamp": "2024-10-04T15:15:44.093271+02:00",
+      "products": [
+        {
+          "@id": "pkg:gem/rexml@3.2.6"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-39908"
+      },
+      "timestamp": "2024-10-04T15:15:44.134746+02:00",
+      "products": [
+        {
+          "@id": "pkg:gem/rexml@3.2.6"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-41123"
+      },
+      "timestamp": "2024-10-04T15:15:44.164128+02:00",
+      "products": [
+        {
+          "@id": "pkg:gem/rexml@3.2.6"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-41946"
+      },
+      "timestamp": "2024-10-04T15:15:44.189574+02:00",
+      "products": [
+        {
+          "@id": "pkg:gem/rexml@3.2.6"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-43398"
+      },
+      "timestamp": "2024-10-04T15:15:44.215089+02:00",
+      "products": [
+        {
+          "@id": "pkg:gem/rexml@3.2.6"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

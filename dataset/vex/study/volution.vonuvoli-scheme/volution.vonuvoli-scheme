@@ -1,0 +1,21 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-f31edec06106ede804df83cc8a7c2f4afb8a93304d02b0fabdb24fb84481b4dc",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-07T15:21:11.68108+02:00",
+  "version": 1,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2022-24713"
+      },
+      "timestamp": "2024-10-07T15:21:11.681081+02:00",
+      "products": [
+        {
+          "@id": "pkg:cargo/regex@1.5.4"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

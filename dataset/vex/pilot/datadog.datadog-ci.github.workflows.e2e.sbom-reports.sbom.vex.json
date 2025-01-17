@@ -1,0 +1,51 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-c5813cc5359ac6a1ac5e5e636c225f4b4dfaf904c074026dce93711d3eaf578c",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-03T16:02:05.994292+02:00",
+  "last_updated": "2024-10-03T16:02:06.106642+02:00",
+  "version": 5,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2022-24775"
+      },
+      "timestamp": "2024-10-03T16:02:05.994295+02:00",
+      "products": [
+        {"@id": "pkg:composer/guzzlehttp/psr7@1.9.0"}
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-24894"
+      },
+      "timestamp": "2024-10-03T16:02:06.027974+02:00",
+      "products": [
+        {"@id": "pkg:composer/symfony/http-kernel@v5.4.16"},
+        {@id: "pkg:composer/symfony/symfony@v5.4.16"}
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-29197"
+      },
+      "timestamp": "2024-10-03T16:02:06.081175+02:00",
+      "products": [
+        {"@id": "pkg:composer/guzzlehttp/psr7@1.9.0"}
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-29530"
+      },
+      "timestamp": "2024-10-03T16:02:06.106642+02:00",
+      "products": [
+        {"@id": "pkg:composer/guzzlehttp/psr7@1.9.0"}
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

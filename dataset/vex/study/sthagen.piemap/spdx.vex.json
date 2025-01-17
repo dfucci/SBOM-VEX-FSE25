@@ -1,0 +1,21 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-0b02b0f51bb2a0cee2e6bb06ee27f87f94ec0f4d822d139b9bf200ea7e969afe",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-04T15:13:28.620719+02:00",
+  "version": 1,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2024-28219"
+      },
+      "timestamp": "2024-10-04T15:13:28.620719+02:00",
+      "products": [
+        {
+          "@id": "pkg:pypi/pillow@10.2.0"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

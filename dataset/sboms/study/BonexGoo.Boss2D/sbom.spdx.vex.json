@@ -1,0 +1,82 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-9f88bbe7421343c6cd8bc0f75752b27b01ac605c496db337d7fca6f7176dc270",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-11T17:16:07.387457+02:00",
+  "last_updated": "2024-10-11T17:16:07.518685+02:00",
+  "version": 6,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45803"
+      },
+      "timestamp": "2024-10-11T17:16:07.387457+02:00",
+      "products": [
+        {
+          "@id": "pkg:pypi/urllib3@1.26.17"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-35195"
+      },
+      "timestamp": "2024-10-11T17:16:07.418232+02:00",
+      "products": [
+        {
+          "@id": "pkg:pypi/requests@2.31.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-3651"
+      },
+      "timestamp": "2024-10-11T17:16:07.443647+02:00",
+      "products": [
+        {
+          "@id": "pkg:pypi/idna@3.4"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-37891"
+      },
+      "timestamp": "2024-10-11T17:16:07.469074+02:00",
+      "products": [
+        {
+          "@id": "pkg:pypi/urllib3@1.26.17"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-39689"
+      },
+      "timestamp": "2024-10-11T17:16:07.493811+02:00",
+      "products": [
+        {
+          "@id": "pkg:pypi/certifi@2023.7.22"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-6345"
+      },
+      "timestamp": "2024-10-11T17:16:07.518686+02:00",
+      "products": [
+        {
+          "@id": "pkg:pypi/setuptools@68.0.0"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-206f6641488b80502c8862f3b0d794a9e8639e356b921457b8f3b655b213e43f",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-04T14:34:01.313346+02:00",
+  "last_updated": "2024-10-04T14:34:01.604592+02:00",
+  "version": 12,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2022-25883"
+      },
+      "timestamp": "2024-10-04T14:34:01.313347+02:00",
+      "products": [
+        {
+          "@id": "pkg:npm/semver@6.3.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-25883"
+      },
+      "timestamp": "2024-10-04T14:34:01.340843+02:00",
+      "products": [
+        {
+          "@id": "pkg:npm/semver@7.3.5"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45133"
+      },
+      "timestamp": "2024-10-04T14:34:01.369176+02:00",
+      "products": [
+        {
+          "@id": "pkg:npm/@babel/traverse@7.17.9"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45133"
+      },
+      "timestamp": "2024-10-04T14:34:01.396429+02:00",
+      "products": [
+        {
+          "@id": "pkg:npm/babel-traverse@7.17.9"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-4068"
+      },
+      "timestamp": "2024-10-04T14:34:01.422781+02:00",
+      "products": [
+        {
+          "@id": "pkg:npm/braces@3.0.2"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-6531"
+      },
+      "timestamp": "2024-10-04T14:34:01.448945+02:00",
+      "products": [
+        {
+          "@id": "pkg:composer/twbs/bootstrap@4.6.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-6531"
+      },
+      "timestamp": "2024-10-04T14:34:01.476061+02:00",
+      "products": [
+        {
+          "@id": "pkg:gem/bootstrap@4.6.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-6531"
+      },
+      "timestamp": "2024-10-04T14:34:01.502216+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.webjars.npm/bootstrap@4.6.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-6531"
+      },
+      "timestamp": "2024-10-04T14:34:01.527879+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.webjars/bootstrap@4.6.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-6531"
+      },
+      "timestamp": "2024-10-04T14:34:01.553485+02:00",
+      "products": [
+        {
+          "@id": "pkg:npm/bootstrap@4.6.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-6531"
+      },
+      "timestamp": "2024-10-04T14:34:01.57928+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/bootstrap.sass@4.6.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-6531"
+      },
+      "timestamp": "2024-10-04T14:34:01.604592+02:00",
+      "products": [
+        {
+          "@id": "pkg:nuget/bootstrap@4.6.0"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

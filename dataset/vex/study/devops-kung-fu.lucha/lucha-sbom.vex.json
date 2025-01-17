@@ -1,0 +1,58 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-cc1f8ba30b0a72411e1018beb9c8cd9f2cb51d09759997cbd69ea261880f83f1",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-07T15:48:58.771231+02:00",
+  "last_updated": "2024-10-07T15:48:58.847155+02:00",
+  "version": 4,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2021-38561"
+      },
+      "timestamp": "2024-10-07T15:48:58.771232+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/text@v0.3.6"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-29526"
+      },
+      "timestamp": "2024-10-07T15:48:58.798013+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/sys@v0.0.0-20210630005230-0f9fa26af87c"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-29526"
+      },
+      "timestamp": "2024-10-07T15:48:58.822863+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/stdlib@v0.0.0-20210630005230-0f9fa26af87c"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-32149"
+      },
+      "timestamp": "2024-10-07T15:48:58.847156+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/text@v0.3.6"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

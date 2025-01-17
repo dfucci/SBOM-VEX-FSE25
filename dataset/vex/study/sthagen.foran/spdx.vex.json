@@ -1,0 +1,21 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-06f61670afb5204cc11c7e793a2ad44b15a35142a5c13b97eb434a314003092b",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-04T15:06:54.045372+02:00",
+  "version": 1,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2024-22190"
+      },
+      "timestamp": "2024-10-04T15:06:54.045373+02:00",
+      "products": [
+        {
+          "@id": "pkg:pypi/gitpython@3.1.40"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}
