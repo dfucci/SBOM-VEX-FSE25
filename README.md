@@ -17,7 +17,7 @@ The folders `sboms` and `vex` contain the SBOM and VEX files for the repositorie
 This folder includes the (anonymized) text of the comment used when opening the pull request (`pr_message.txt`), and the resulting dataset (`pr_results.xlsx)`. For each of the analyzed repositories, the latter includes a link to the GitHub Pull Request, information about the pull request status (merged, rejected, open), the number of discussion messages, and the themes resulting from discussion after thematic analysis.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Reviewers please refrain to follow the link to individual pull requests during the review period to avoid violating double-blind. 
 
 ### survey 
 The directory includes the dataset resulting from the answers maintainers provided to the survey (`survey_results.xlsx`). The survey asks maintainers whether they reviewed the pull request, and in positive case, whether the consider including vulnerability information through VEX was useful to them, with the possibility to provide additional comments.
